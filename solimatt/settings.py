@@ -170,4 +170,4 @@ SHARE_PRICE = "250"
 
 INFO_EMAIL = "juntagrico@solimatt.ch"
 SERVER_URL = "solimatt.ch"
-STYLES = {'static': ['/static/demo/css/customize.css']}
+STYLES = {'static': ['/static/solimatt/css/customize.css']}
