@@ -171,3 +171,27 @@ SHARE_PRICE = "250"
 INFO_EMAIL = "juntagrico@solimatt.ch"
 SERVER_URL = "solimatt.ch"
 STYLES = {'static': ['/static/solimatt/css/customize.css']}
+
+"""
+    solimatt VOCABULARY settings
+"""
+
+{
+    'member': 'Mitglied',
+    'member_pl' : 'Mitglieder',
+    'assignment' : 'Arbeitseinsatz',
+    'assignment_pl' : 'Arbeitseinsätze',
+    'share' : 'Anteilschein',
+    'share_pl' : 'Anteilscheine',
+    'subscription' : 'Abo',
+    'subscription_pl' : 'Abos',
+    'co_member' : 'Mit-ErnteanteilnehmerIn',
+    'co_member_pl' : 'Mit-ErnteanteilnehmerInnen',
+    'price' : 'Betriebsbeitrag',
+    'member_type' : 'Mitglied',
+    'member_type_pl' : 'Mitglieder',
+    'depot' : 'Depot',
+    'depot_pl' : 'Depots',
+    'package': 'Korb',
+    'package_pl': 'Körbe'
+}
