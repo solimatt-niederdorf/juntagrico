@@ -175,7 +175,7 @@ STYLES = {'static': ['/static/solimatt/css/customize.css']}
 """
     solimatt VOCABULARY settings
 """
-{
+VOCABULARY = {
     'member': 'Mitglied',
     'member_pl' : 'Mitglieder',
     'assignment' : 'Arbeitseinsatz',
