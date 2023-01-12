@@ -154,7 +154,7 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
      juntagrico Settings
 """
 ORGANISATION_NAME = "Solimatt"
-ORGANISATION_LONG_NAME = "Solimatt"
+ORGANISATION_LONG_NAME = "Solimatt, solidarische Landwirtschaft im Waldenburgertal"
 ORGANISATION_ADDRESS = {"name":"Solimatt", 
             "street" : "Hof Baselmatt",
             "number" : "21",
