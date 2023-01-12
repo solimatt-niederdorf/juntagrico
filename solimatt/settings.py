@@ -172,7 +172,7 @@ INFO_EMAIL = "juntagrico@solimatt.ch"
 SERVER_URL = "solimatt.ch"
 STYLES = {'static': ['/static/solimatt/css/customize.css']}
 
-VOCABULARY = { # solimatt VOCABULARY settings
+VOCABULARY = {
     'member': 'Mitglied',
     'member_pl' : 'Mitglieder',
     'assignment' : 'Arbeitseinsatz',
