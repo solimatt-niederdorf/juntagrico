@@ -6,3 +6,8 @@
     width: 580px;
     height: 161px;
 }
+.btn-success {
+    color: #fff;
+    background-color: #689d31;
+    border-color: #689d31;
+}
