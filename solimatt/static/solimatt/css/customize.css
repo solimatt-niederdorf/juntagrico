@@ -6,6 +6,16 @@ html, body {
     background-color: #fefffa;
     height: 100%;
 }
+body {
+    margin: 0;
+    font-family: "Source Sans Pro";
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #3B3934;
+    text-align: left;
+    background-color: #fff;
+}
 
 a {
     color: #669933;
