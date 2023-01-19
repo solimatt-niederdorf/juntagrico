@@ -8,7 +8,8 @@
 }
 
 html, body {
-    font-family: "Source Sans Pro"; /*"Source Sans Pro Light"*/
+    font-family: "Source Sans Pro Regular"; /*"Source Sans Pro Light"*/
+    font-weight: 400;
     background-color: #fefffa;
     height: 100%;
 }
