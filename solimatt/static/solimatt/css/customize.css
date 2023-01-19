@@ -11,3 +11,10 @@
     background-color: #689d31;
     border-color: #689d31;
 }
+
+.page-title h3, .allcontent h3 {
+    margin-top: 0;
+    margin-bottom: 40px;
+    color: #689d31;
+    font-size: 30pt;
+}
