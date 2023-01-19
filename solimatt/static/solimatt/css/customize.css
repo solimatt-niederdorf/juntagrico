@@ -1,3 +1,36 @@
+/* solimatt juntagrico css
+_______________________________________________________________________ */
+html, body {
+    font-family: "Source Sans Pro Regular";
+    font-weight: 400;
+    background-color: #fefffa;
+    height: 100%;
+}
+
+a {
+    color: #669933;
+}
+a {
+    color: #76b537;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.page-title h3, .allcontent h3 {
+    margin-top: 0;
+    margin-bottom: 40px;
+    color: #669933;
+    font-size: 30pt;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #669933;
+    border-color: #669933;
+}
+
+/* solimatt LOGO
+_______________________________________________________________________ */
 .juntagrico-logo {
     /* uncomment the next line and add your logo in the img folder */
     background: url(/static/solimatt/img/logo-c-solimatt.png) no-repeat 0 0;
@@ -5,24 +38,4 @@
     display: inline-block;
     width: 580px;
     height: 161px;
-}
-
-html, body {
-    font-family: "Source Sans Pro Regular"; /*"Source Sans Pro Light"*/
-    font-weight: 400;
-    background-color: #fefffa;
-    height: 100%;
-}
-
-.btn-success {
-    color: #fff;
-    background-color: #689d31;
-    border-color: #689d31;
-}
-
-.page-title h3, .allcontent h3 {
-    margin-top: 0;
-    margin-bottom: 40px;
-    color: #689d31;
-    font-size: 30pt;
 }
