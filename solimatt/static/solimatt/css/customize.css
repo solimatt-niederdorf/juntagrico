@@ -32,6 +32,10 @@ a {
     border-color: #669933;
 }
 
+.btn-success a {
+    background-color: magenta;
+}
+
 /* solimatt LOGO
 _______________________________________________________________________ */
 .juntagrico-logo {
