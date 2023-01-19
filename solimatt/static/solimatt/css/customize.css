@@ -14,17 +14,16 @@ body {
 a {
     color: #669933;
 }
-a {
-    color: #76b537;
-    text-decoration: none;
-    background-color: transparent;
-}
 
 .page-title h3, .allcontent h3 {
     margin-top: 0;
     margin-bottom: 40px;
     color: #669933;
     font-size: 30pt;
+}
+
+.nav-link, .nav-link:focus {
+    color: #3B3934;
 }
 
 .btn-success {
