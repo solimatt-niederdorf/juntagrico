@@ -1,14 +1,8 @@
 /* solimatt juntagrico css
 _______________________________________________________________________ */
-html, body {
-    font-family: "Source Sans Pro Regular";
-    font-weight: 400;
-    background-color: #fefffa;
-    height: 100%;
-}
 body {
     margin: 0;
-    font-family: "Source Sans Pro";
+    font-family: "Source Sans Pro Regular";
     font-size: 1.125rem;
     font-weight: 400;
     line-height: 1.5;
