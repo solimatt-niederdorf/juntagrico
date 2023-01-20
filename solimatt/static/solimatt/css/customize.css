@@ -29,6 +29,10 @@ a {
     color: #669933;
 }
 
+.nav-link:hover {
+    color: #669933;
+}
+
 .btn-success {
     color: #fff;
     background-color: #669933;
