@@ -37,7 +37,7 @@ a {
     border-color: #669933;
 }
 
-.btn-success a:hover {
+.btn-success:hover {
     background-color: red;
 }
 
