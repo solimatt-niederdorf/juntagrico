@@ -3,12 +3,6 @@ _______________________________________________________________________ */
 body {
     margin: 0;
     font-family: "Source Sans Pro Regular";
-    font-size: 1.125rem;
-    font-weight: 300;
-    line-height: 1.5;
-    color: #3B3934;
-    text-align: left;
-    background-color: #fff;
 }
 
 a {
@@ -38,7 +32,8 @@ a {
 }
 
 .btn-success:hover {
-    background-color: #ccc;
+    background-color: #bbb;
+    border-color: #aaa;
 }
 
 /* solimatt LOGO
