@@ -4,7 +4,7 @@ body {
     margin: 0;
     font-family: "Source Sans Pro Regular";
     font-size: 1.125rem;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 1.5;
     color: #3B3934;
     text-align: left;
@@ -37,7 +37,7 @@ a {
     border-color: #669933;
 }
 
-.btn-success a {
+.btn-success a:hover {
     background-color: red;
 }
 
@@ -49,5 +49,5 @@ _______________________________________________________________________ */
     background-size: contain;
     display: inline-block;
     width: 480px;
-    height: 161px;
+    height: 160px;
 }
