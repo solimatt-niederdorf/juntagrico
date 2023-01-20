@@ -21,8 +21,12 @@ a {
     font-size: 14px;
 }
 
-.nav-link, .nav-link:focus {
+.nav-link {
     color: #3B3934;
+}
+
+.nav-link a {
+    color: #669933;
 }
 
 .btn-success {
