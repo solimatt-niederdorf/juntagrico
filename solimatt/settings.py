@@ -191,3 +191,20 @@ VOCABULARY = {
     'package': 'Korb',
     'package_pl': 'Körbe'
 }
+
+EMAILS = {
+    'welcome': 'mails/welcome_mail.txt',
+    'co_welcome': 'mails/welcome_added_mail.txt',
+    'co_added': 'mails/added_mail.txt',
+    'password': 'mails/password_reset_mail.txt',
+    'j_reminder': 'mails/job_reminder_mail.txt',
+    'j_canceled': 'mails/job_canceled_mail.txt',
+    'confirm': 'mails/confirm.txt',
+    'j_changed': 'mails/job_time_changed_mail.txt',
+    'j_signup': 'mails/job_signup_mail.txt',
+    'd_changed': 'mails/depot_changed_mail.txt',
+    's_created': 'mails/share_created_mail.txt',
+    'n_sub': 'mails/new_subscription.txt',
+    's_canceled': 'mails/subscription_canceled_mail.txt',
+    'm_canceled': 'mails/membership_canceled_mail.txt',
+}
