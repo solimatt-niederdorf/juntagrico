@@ -48,7 +48,7 @@ a {
 _______________________________________________________________________ */
 .juntagrico-logo {
     /* uncomment the next line and add your logo in the img folder */
-    background: url(/static/solimatt/img/logo-c-solimatt.png) no-repeat 0 0;
+    background: url(/static/solimatt/img/solimatt-logo-c.png) no-repeat 0 0;
     background-size: contain;
     display: inline-block;
     width: 480px;
