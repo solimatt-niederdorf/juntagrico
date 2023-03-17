@@ -168,8 +168,9 @@ ORGANISATION_BANK_CONNECTION = {"PC" : "0",
             "ESR" : ""}
 SHARE_PRICE = "250"
 
-INFO_EMAIL = "juntagrico@solimatt.ch"
-SERVER_URL = "solimatt.ch"
+INFO_EMAIL = 'juntagrico@solimatt.ch'
+DEFAULT_FROM_EMAIL = 'juntagrico@solimatt.ch'
+SERVER_URL = 'solimatt.ch'
 
 # css Settings
 STYLES = {'static': ['solimatt/css/customize.css']}
