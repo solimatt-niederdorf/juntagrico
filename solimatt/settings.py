@@ -150,15 +150,15 @@ MEDIA_ROOT = 'media'
 """
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
-"""
-     juntagrico Settings
-"""
-
+# bewirkt das Fehlermeldungen an admin gesendet werden!
 ADMINS = [
 ('Admin', os.environ.get('JUNTAGRICO_ADMIN_EMAIL')),
 ]
 MANAGERS = ADMINS
 
+"""
+     juntagrico Settings
+"""
 ORGANISATION_NAME = "Solimatt"
 ORGANISATION_LONG_NAME = "Solimatt, solidarische Landwirtschaft im Waldenburgertal"
 ORGANISATION_ADDRESS = {"name":"Solimatt", 
