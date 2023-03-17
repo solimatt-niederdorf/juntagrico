@@ -153,6 +153,12 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 """
      juntagrico Settings
 """
+
+ADMINS = [
+('Admin', os.environ.get('JUNTAGRICO_ADMIN_EMAIL')),
+]
+MANAGERS = ADMINS
+
 ORGANISATION_NAME = "Solimatt"
 ORGANISATION_LONG_NAME = "Solimatt, solidarische Landwirtschaft im Waldenburgertal"
 ORGANISATION_ADDRESS = {"name":"Solimatt", 
