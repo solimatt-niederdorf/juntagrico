@@ -175,6 +175,7 @@ ORGANISATION_BANK_CONNECTION = {"PC" : "0",
 SHARE_PRICE = "250"
 
 INFO_EMAIL = 'juntagrico@solimatt.ch'
+# Passwort zurücksetzen Default Link
 DEFAULT_FROM_EMAIL = 'juntagrico@solimatt.ch'
 SERVER_URL = 'solimatt.ch'
 
