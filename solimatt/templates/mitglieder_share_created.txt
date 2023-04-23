@@ -12,7 +12,7 @@
 {% vocabulary "share_pl" as v_share_pl %}
 {% trans "Hallo" %}
 
-{% with sc=shares|length %}Du hast bei {{ v_d_enriched_organisation }} {{ sc }} {{ v_share_pl }} zu je {{ c_currency }} {{ c_share_price }} bestellt.
+{% with sc=shares|length %}Vielen Dank für das Zeichnen von {{ sc }} {{ v_share_pl }} Anteilschein(en) zu je {{ c_currency }} {{ c_share_price }}
 Die Rechnung wird dir mit einem separaten Email als PDF mit QR-Code zugestellt. 
 
 Bis bald und liebe Grüsse
