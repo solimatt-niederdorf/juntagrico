@@ -18,4 +18,4 @@ Die Rechnung wird dir per Post zugestellt.
 Bis bald und liebe Grüsse
 deine {{ c_organisation_name }}-Betriebsgruppe
 
-{% endblock %}
+{% endwith %}
