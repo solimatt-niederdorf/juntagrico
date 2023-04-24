@@ -175,6 +175,10 @@ ORGANISATION_BANK_CONNECTION = {"PC" : "0",
 SHARE_PRICE = "250"
 
 INFO_EMAIL = 'juntagrico@solimatt.ch'
+# Email list tmp einfügen
+EMAILS = {
+     's_created': 'mitglieder_share_created.txt',
+ }
 # Passwort zurücksetzen Default Link
 DEFAULT_FROM_EMAIL = 'juntagrico@solimatt.ch'
 SERVER_URL = 'solimatt.ch'
