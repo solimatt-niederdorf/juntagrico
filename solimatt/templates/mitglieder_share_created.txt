@@ -11,11 +11,11 @@
 {% vocabulary "share" as v_share %}
 {% vocabulary "share_pl" as v_share_pl %}
 {% trans "Hallo" %}
-
 {% with sc=shares|length %}Vielen Dank für das Zeichnen von {{ sc }} {{ v_share_pl }} Anteilschein(en) zu je {{ c_currency }} {{ c_share_price }}
 Die Rechnung wird dir per Post zugestellt.
-
 Bis bald und liebe Grüsse
 deine {{ c_organisation_name }}-Betriebsgruppe
-
 {% endwith %}
+{% endblock %}
+
+
