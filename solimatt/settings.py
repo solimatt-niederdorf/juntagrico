@@ -33,7 +33,7 @@ INSTALLED_APPS = [
     'adminsortable2',
     'solimatt',
     'polymorphic',
-    'juntagrico_billing',
+    'juntagrico_billing', # Juntagrico Rechnungs addon
 ]
 
 ROOT_URLCONF = 'solimatt.urls'
