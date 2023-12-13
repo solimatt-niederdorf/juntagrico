@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     'adminsortable2',
     'solimatt',
     'polymorphic',
+    'juntagrico_billing',
 ]
 
 ROOT_URLCONF = 'solimatt.urls'
