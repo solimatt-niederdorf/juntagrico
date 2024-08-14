@@ -27,13 +27,16 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.admin',
+    'solimatt',
+    'juntagrico_billing',
     'juntagrico',
+    'fontawesomefree',
+    'import_export',
     'impersonate',
     'crispy_forms',
     'adminsortable2',
-    'solimatt',
     'polymorphic',
-    'juntagrico_billing',
+    
 ]
 
 ROOT_URLCONF = 'solimatt.urls'
@@ -137,7 +140,7 @@ IMPERSONATE = {
     'REDIRECT_URL': '/my/profile',
 }
 
-LOGIN_REDIRECT_URL = "/my/home"
+LOGIN_REDIRECT_URL = "/"
 
 """
     File & Storage Settings
@@ -175,14 +178,20 @@ ORGANISATION_BANK_CONNECTION = {"PC" : "0",
             "ESR" : ""}
 SHARE_PRICE = "250"
 
-INFO_EMAIL = 'juntagrico@solimatt.ch'
+IMPORT_EXPORT_EXPORT_PERMISSION_CODE = 'view'
+CONTACTS = {
+    "general": "juntagrico@solimatt.ch"
+}
 # Email list tmp einfügen
 EMAILS = {
      's_created': 'mitglieder_share_created.txt',
  }
 # Passwort zurücksetzen Default Link
 DEFAULT_FROM_EMAIL = 'juntagrico@solimatt.ch'
-SERVER_URL = 'solimatt.ch'
+ORGANISATION_WEBSITE = {
+    'name': "solimatt.ch",
+    'url': "https://solimatt.ch"
+}
 
 # css Settings
 STYLES = {'static': ['solimatt/css/customize.css']}
