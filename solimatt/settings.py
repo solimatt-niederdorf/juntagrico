@@ -85,6 +85,8 @@ WSGI_APPLICATION = 'solimatt.wsgi.application'
 
 LANGUAGE_CODE = 'de'
 
+DJRICHTEXTFIELD_CONFIG = defaults.richtextfield_config(LANGUAGE_CODE)
+
 SITE_ID = 1
 
 # If you set this to False, Django will make some optimizations so as not
