@@ -2,6 +2,8 @@
 Django settings for solimatt project.
 """
 
+from juntagrico import defaults
+
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
